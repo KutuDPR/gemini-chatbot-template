@@ -3,7 +3,7 @@
 
 # 🚀 Gemini AI Chatbot Starter
 
-### Serverless Proxy · Custom RAG · GitHub Pages
+### Serverless Proxy · Custom RAG · Netlify
 
 **A modular, customizable, and secure AI chatbot starter template powered by Google Gemini.**
 
